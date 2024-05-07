@@ -1,6 +1,6 @@
 - 👋 I'm Caleb Ese Oru
 - 👀 I’m interested in 📚 ♟️ 🎮 and 💻
-- 🌱 I’m currently learning Software Engineering with ALX in partnership with Holberton School Tusla, USA.
+- 🌱 I’m an alumnus of ALX Software Engineering 
 - 💞️ I’m looking to collaborate on new and exciting projects. I'm looking for problems that can be solved with tech. 
 - 📫 How to reach me... orucaleb@gmail.com
 
