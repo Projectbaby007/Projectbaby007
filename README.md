@@ -6,12 +6,9 @@
   
 - 🌱 I am a certified Web Developer. 👨🏾‍💻
   
--  I'm a cerified Ethical Hacker. 💻 🖱️
+-  🪴 I am a cerified Ethical Hacker. 💻 🖱️
    
 - 💞️ I’m looking to collaborate on new and exciting projects.
     
 - 📫 How to reach me... orucaleb@gmail.com
 
-
-
-- Projectbaby007 is a shinning ✨ 
